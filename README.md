@@ -15,11 +15,16 @@
 ## Key Features
 **Hand Gesture Recognition:** Utilizes the Mediapipe library to detect and track hand gestures in real-time using the computer's webcam.
 Calculates the movement of the index finger tip to control the on-screen cursor.
+
 **Voice Command Recognition:** Implements the Speech Recognition library to capture voice commands through the computer's microphone.
 Recognizes spoken commands, including "left click," "right click," "scroll up," "scroll down," "scroll right," and "scroll left."
+
 **Cursor Movement Sensitivity:** Adjustable sensitivity factor for cursor movement, providing users with control over the responsiveness of the cursor to hand gestures.
+
 **Accessibility and Hands-Free Interaction:** Designed with accessibility in mind, providing a hands-free and intuitive interface for individuals with mobility impairments or in situations where manual input is challenging.
+
 **Real-Time Feedback:** Displays the live webcam feed with hand tracking and cursor movement, offering users immediate visual feedback.
+
 **Open Source Technologies:** Built upon open-source libraries such as Mediapipe, SpeechRecognition, and Pynput, making it accessible for developers to explore and extend.
 
 ## METHOD AND ALGORITHM
